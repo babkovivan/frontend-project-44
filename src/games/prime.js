@@ -1,5 +1,5 @@
-import { randomizer } from '../math.js';
-import game from '../index.js';
+import { randomizer } from '../math';
+import game from '../index';
 
 const gameRules = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 

@@ -1,5 +1,5 @@
-import  sayGreetings from './cli.js';
-import { getYourAnswer } from './math.js';
+import sayGreetings from './cli';
+import { getYourAnswer } from './math';
 
 const game = (task, getQuestionAndAnswer) => {
   const name = sayGreetings();

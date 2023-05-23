@@ -1,5 +1,5 @@
-import { randomizer } from '../math.js';
-import playGame from '../index.js';
+import { randomizer } from '../math';
+import playGame from '../index';
 
 const gameRules = 'Find the greatest common divisor of given numbers.';
 
