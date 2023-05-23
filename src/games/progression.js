@@ -1,5 +1,5 @@
-import game from '../index';
-import { randomizer } from '../math';
+import game from '../index.js';
+import { randomizer } from '../math.js';
 
 const gameRules = 'What number is missing in the progression?';
 
