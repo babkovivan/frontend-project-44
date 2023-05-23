@@ -2,6 +2,11 @@
     "name": "@hexlet/code",
     "version": "1.0.0",
     "type": "module",
+    "description": "https://github.com/babkovivan/frontend-project-44/blob/main/README.md",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
     "bin": {
         "brain-games": "bin/brain-games.js",
         "brain-even": "bin/brain-even.js",
@@ -10,6 +15,16 @@
         "brain-progression" : "bin/brain-progression.js",
         "brain-prime": "bin/brain-prime.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/babkovivan/frontend-project-44"
+      },
+      "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babkovivan/frontend-project-44/issues"
+  },
+    "homepage": "https://github.com/babkovivan/frontend-project-44/blob/main/README.md",
     "dependencies": {
         "readline-sync": "^1.4.10"
     },
